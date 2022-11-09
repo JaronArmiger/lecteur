@@ -1,11 +1,6 @@
 # Project Lyrics
 
-This is a redesigned music player web app based on the tutorial from [JS Mastery] (https://github.com/adrianhajdin/project_music_player)
-
-# Contributing
-
-When contributing to this repository, please first discuss the change you wish to make via issue.
-Please note we have a [code of conduct](CODE_OF_CONDUCT.md), please follow it in all your interactions with the project.
+This is a redesigned music player web app based on the tutorial from [JS Mastery](https://github.com/adrianhajdin/project_music_player)
 
 
 ## System Requirements
