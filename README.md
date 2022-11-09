@@ -2,6 +2,8 @@
 
 This is a redesigned music player web app based on the tutorial from [JS Mastery](https://github.com/adrianhajdin/project_music_player)
 
+View the deployed app [here](https://le-travaille.netlify.app/)
+
 
 ## System Requirements
 
